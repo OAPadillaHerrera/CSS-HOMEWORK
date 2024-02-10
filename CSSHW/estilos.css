@@ -1,0 +1,91 @@
+
+body {
+
+    background-color: white;
+
+}
+
+.title {
+
+    font-size: 2.5em;
+    color: black;
+
+}
+
+
+.title1 {
+
+    font-size: 1.5em;
+    color: black;
+
+
+
+}
+
+.title2 {
+
+        font-size: 1.5em;
+        color: black;
+
+
+
+}
+
+.miTexto {
+
+    font-size: 1.2em;
+    color: purple;
+
+}
+
+#principal {
+
+    font-size: 5em;
+    color: red;
+
+}
+
+.logo {
+
+    width: 48em;
+    
+}
+
+#titulos {
+
+    border: 2px solid black;
+    width: 65vw;
+    margin: auto;
+    padding: 3em;    
+    
+}
+
+.cards {
+
+    border: 2px solid black;
+    width: fit-content;
+    padding: 1em 1em 1em 1em;
+    border-radius: 3%;
+    transition: 2s;
+    
+}
+
+.cards:hover {
+
+    background-color: lightblue;
+
+}
+
+#cards-container {
+
+    width: 85vw;
+    margin: auto;
+    margin-top: 1.5em;
+    border: 2px solid black;
+    border-radius: 13px;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-self: space-between;
+
+}
